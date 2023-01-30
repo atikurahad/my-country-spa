@@ -12,9 +12,9 @@ export default function Counter() {
  return (
    <>
      <div>
-       <h1>Count :{count}</h1>
-       <button onClick={decreaseCount}> Decrease</button>
-       <button onClick={increaseCount}> Icrease</button>
+       <h1>Count :{ count}</h1>
+       <button onClick={ decreaseCount}> Decrease</button>
+       <button onClick={ increaseCount} > Icrease</button>
      </div>
    </>
  );

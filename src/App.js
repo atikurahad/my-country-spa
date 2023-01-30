@@ -1,5 +1,6 @@
 import "./App.css";
 import Counter from "./Counter";
+import Country from "./Country";
 import Person from "./Person";
 
 function App() {
@@ -12,6 +13,8 @@ function App() {
       </div>
 
       <Counter />
+
+      <Country />
     </>
   );
 }
