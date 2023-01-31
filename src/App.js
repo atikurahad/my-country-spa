@@ -1,6 +1,6 @@
 import "./App.css";
 import Counter from "./Counter";
-import Country from "./Country";
+import Countries from "./Countries";
 import Person from "./Person";
 
 function App() {
@@ -14,7 +14,8 @@ function App() {
 
       <Counter />
 
-      <Country />
+    <Countries />
+
     </>
   );
 }
