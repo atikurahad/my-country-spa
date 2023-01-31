@@ -58,6 +58,9 @@ Counter{
   text-align: center;
 }
 
+span{
+  color: rgb(213, 204, 204);
+}
 .country-img{
   height: 10rem;
   width: 18rem;

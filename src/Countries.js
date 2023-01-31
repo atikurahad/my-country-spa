@@ -17,7 +17,7 @@ export default function Countries() {
           <Country
             className="countries "
             country={country}
-            key={country.ccn3}
+   key={country.fifa}
           />
         ))}
       </div>
